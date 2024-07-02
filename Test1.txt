@@ -1,0 +1,3 @@
+Hello There!
+
+This is a clone from existing git repo (forked).
